@@ -35,3 +35,7 @@
 5. Close confirmation prevents accidental closure
 
 The app serves as a **mobile-first HTML preview tool** for developers, similar to browser dev tools' device simulation but as a standalone desktop application.
+
+
+<!-- AUTO UPDATE -->
+Last maintenance: 2026-08-06 05:21 UTC
